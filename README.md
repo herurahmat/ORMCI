@@ -7,7 +7,7 @@ Simple library database untuk penggunaan Codeigniter
 - Buatlah model untuk memproseskan database
 
 # Contoh Pemakaian
-
+```php
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 class Sample extends CI_Model
@@ -91,3 +91,4 @@ class Sample extends CI_Model
 	}
 	
 }
+```php
