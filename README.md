@@ -91,4 +91,6 @@ class Sample extends CI_Model
 	}
 	
 }
-```php
+```
+
+# Contoh Function Lain (Soon)
